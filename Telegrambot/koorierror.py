@@ -16,7 +16,7 @@ def aux_dec2utf8(resp):                     # a function for decoding HTML conte
 
 ######################### START #########################
 
-TOKEN = '1382231777:AAHz1Tz6LuL1r3DY889mAYOddrDzlqRQ2LM'       # define the access token
+TOKEN = 'Place Your Token here'       # define the access token
 URL   = 'https://api.telegram.org/bot{}/'.format(TOKEN)       # Telegram bot API url + TOKEN
 
 cmd   = 'getme'                                               # Auxiliary variable for defining commands
